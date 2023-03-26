@@ -1,6 +1,6 @@
 # Clustering_Cereal
 
-1.	Using all the variables, except name and rating, run the k-means algorithm with k=5
+Run the k-means algorithm with k=5
 to identify clusters within the data.
 
 Cluster plot when number of clusters k=5
