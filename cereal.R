@@ -37,7 +37,7 @@ cereal_data=cereal_data%>%mutate(clusters=km_cereal2$cluster)
 View(cereal_data)
 
 
-write.csv(cereal_data,"/Users/amiteshjk/Desktop/5cluster.csv")
+write.csv(cereal_data,"/Users/sanjana/Desktop/5cluster.csv")
 
 ## K=3
 
